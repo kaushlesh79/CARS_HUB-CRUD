@@ -21,7 +21,7 @@ const Home = () => {
     return (
         <>
             <Container>
-                <h1 className='text-center'>User Data</h1>
+                <h1 className='text-center'>Car's HUB</h1>
                 <div className='d-flex justify-content-between flex-wrap'>
                     {
                         userdata.length > 0 && userdata.map((element) => {
