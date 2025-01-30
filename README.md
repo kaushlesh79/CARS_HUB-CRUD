@@ -14,6 +14,23 @@ This is the frontend for the Cars Hub Portal, a web application where users can 
 - HTML, CSS, JavaScript
 - Material-UI (for UI components)
 
+
+
+
+# Project Name
+
+## Images
+
+### Homepage
+![Homepage](images/Homepage.png)
+
+### Register
+![Register](images/Register.png)
+
+### Uploading Interface
+![Uploading Interface](images/Uploading%20interface.png)
+
+
 ## Setup
 
 ### Prerequisites:
