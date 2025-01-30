@@ -63,3 +63,34 @@ Car_frontend/
    ```bash
    git clone https://github.com/yourusername/Car_frontend.git
    cd Car_frontend
+   ```
+2. Install Dependencies 
+```bash
+   npm install
+```
+3.Run the development server
+```bash
+   npm start
+```
+
+4. Access the Application
+```bash
+   http://localhost:3000
+```
+
+
+
+### Explanation:
+
+This `README.md` contains all the necessary instructions for someone to run the repository locally:
+
+1. **Cloning the repository**: The user will clone the repository and navigate into the project folder.
+2. **Installing dependencies**: They will install all the required dependencies using `npm install`.
+3. **Running the development server**: Instructions to run the app locally using `npm start`.
+4. **Accessing the app**: The user can open the browser and go to `http://localhost:3000` to view the application.
+
+This is the standard format for providing setup instructions in a `README.md` file for a Node.js/React project.
+
+Let me know if you'd like to add anything else to it!
+
+     
