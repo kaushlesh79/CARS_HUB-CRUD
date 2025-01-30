@@ -31,6 +31,27 @@ This is the frontend for the Cars Hub Portal, a web application where users can 
 ![Uploading Interface](images/Uploading%20interface.png)
 
 
+
+### Folder Structure 
+
+```
+
+Car_frontend/
+├── images/
+├── src/
+│   ├── components/
+│   │   └── header.js
+│   └── pages/
+│       ├── home.js
+│       ├── register.js
+│       └── operation.js
+├── app.js
+├── app.test.js
+├── index.js
+└── reportWebVitals.js
+```
+
+
 ## Setup
 
 ### Prerequisites:
